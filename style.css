@@ -1,0 +1,16 @@
+body h1 {
+  background-color: cyan;
+}
+body p {
+  background-color: blue;
+}
+body table th {
+  background-color: red;
+}
+body table td {
+  background-color: green;
+}
+body img {
+  width: 4rem;
+  height: 10rem;
+}/*# sourceMappingURL=style.css.map */
